@@ -9,9 +9,9 @@
 ```js
   
 <📷> 🐦 {  H ヅ L·L ō World! 🌾🌾🌾 } </📷>
-💚 Acctax/Spreadsheet @hieuacct202
-💙 Motivation/English @khautronghieu
-💜 #Design/ #Programming ⇊
+💚 Acctax/Spreadsheet
+💙 Motivation/English
+💜 Design/Programming
   
 ```
   
