@@ -10,4 +10,4 @@
 💜 #Design/ #Programming ⇊
 ```
 </h3>
-<a href="https://sites.google.com/view/hieupgmr202" target "_blank">💜 https://bio.site/BlackGrapeAcademy </a>
+<a href="https://sites.google.com/view/hieupgmr202" target "_blank">💜 Black Grape Academy </a>
