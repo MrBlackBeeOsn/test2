@@ -24,7 +24,7 @@
 ---
 
 <a href="https://sites.google.com/view/hieupgmr202" target="_blank">
-<img src="https://lh3.googleusercontent.com/pw/AJFCJaWO_8VLGbVDvnVMBoQ_RX3cpGpYYxvzxNr77EQiGnC-AODTtLglVtZa6Watj7EtkWkmU0i_4nuGqfs5RyBMN1NaJRHlHY7oe6B_OxZroSOHzXSEH3K48dyEuVRosERIaZ9idMKp66TGQztX6f-xSKGp=w961-h961-s-no" align="left" width="50px">
+<img src="https://lh3.googleusercontent.com/pw/AJFCJaWO_8VLGbVDvnVMBoQ_RX3cpGpYYxvzxNr77EQiGnC-AODTtLglVtZa6Watj7EtkWkmU0i_4nuGqfs5RyBMN1NaJRHlHY7oe6B_OxZroSOHzXSEH3K48dyEuVRosERIaZ9idMKp66TGQztX6f-xSKGp=w961-h961-s-no" align="left" width="60px">
 </a>
 
 
@@ -33,11 +33,11 @@
 </a>
 
 <a href="https://truthsocial.com/@hieupgmr202" target="_blank">
-<img src="https://lh3.googleusercontent.com/pw/AJFCJaXTu4kFVg6ibvPiabmXT--KYI7cH--An3sNi1vYgbowxuov8uJxAEIoyzOqCEnrGp7-7UwgP26GCDwkI4FhKXaZ3rx94J2s3G5F4Kf0IO5HdIEiMqp2MXo9k5dC9EGXgjAEOW1gXkHsUCTJ8UPA_Ljk=w1200-h675-s-no?authuser=0" align="left" width="45px">
+<img src="https://lh3.googleusercontent.com/pw/AJFCJaXTu4kFVg6ibvPiabmXT--KYI7cH--An3sNi1vYgbowxuov8uJxAEIoyzOqCEnrGp7-7UwgP26GCDwkI4FhKXaZ3rx94J2s3G5F4Kf0IO5HdIEiMqp2MXo9k5dC9EGXgjAEOW1gXkHsUCTJ8UPA_Ljk=w1200-h675-s-no?authuser=0" align="left" width="75px">
 </a>
 
 <a href="https://twitter.com/hieupgmr202" target="_blank">
-<img src="https://lh3.googleusercontent.com/pw/AJFCJaUYn6M0xBErAldgmq5SAU88Kz4yQIgikYORbnmWKSsrxY35nFCxcvd0STGimMGjBmbqATXjLsrtmK54SpK4TaRwcaEXxUCx1Ny5M1rkXhV2IjAP_crS55yS7o62iry-tbLaQGfJHpIGZFOQEUXmhCdy=w1024-h842-s-no?authuser=0" align="left" width="40px">
+<img src="https://lh3.googleusercontent.com/pw/AJFCJaUYn6M0xBErAldgmq5SAU88Kz4yQIgikYORbnmWKSsrxY35nFCxcvd0STGimMGjBmbqATXjLsrtmK54SpK4TaRwcaEXxUCx1Ny5M1rkXhV2IjAP_crS55yS7o62iry-tbLaQGfJHpIGZFOQEUXmhCdy=w1024-h842-s-no?authuser=0" align="left" width="50px">
 </a>
 
 
