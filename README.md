@@ -15,7 +15,7 @@
 
 ```js
   
-[<📷> 🐦 Black Grape Academy (NProfit)🌾🌾🌾 </📷>] (https://sites.google.com/view/hieupgmr202)
+<📷> 🐦 Black Grape Academy (NProfit) 🌾🌾🌾 </📷>
   
 💚 Acctax/Spreadsheet
 💙 Motivation/English
