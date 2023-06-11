@@ -4,14 +4,15 @@
 
 </br>
 
-<h3 align="left">📓 Hieu Trong</h3>
+<h2>
+  
+```js
+📓 Hieu Trong
+```
+  
+</h2>
 
-</br>
-</br>
-
-<a href="https://sites.google.com/view/hieupgmr202" target="_blank"> 💜 Black Grape Academy </a>
-
-<h3 align="left">
+<h4 align="left">
 
 ```js
   
@@ -22,9 +23,12 @@
 💜 Design/Programming
   
 ```
-  <br />
   
-</h3>
+</h4>
+
+
+<br/>
+
 
 ---
 
