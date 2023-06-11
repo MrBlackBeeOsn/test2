@@ -28,7 +28,7 @@
 </a>
 
 
-<a href="https://www.instagram.com/hieupgmr202/" target="_blank">
+<a href="https://www.instagram.com/hieupgmr202" target="_blank">
 <img src="https://lh3.googleusercontent.com/pw/AJFCJaWhtxUNOiBaA3Ag23wNODo3ZNSOM8JpMPxQ3p0bkjA83AieJgsBznkqTQIpjNHy_qdJ2iWSyt9tXGFIBJ0tdhOP8lUne6ZvYgqhMFZth_LRiBh0K3QNjwDHuqCmv__Ht00TMGkd9SSw4DDBivGEQgpI=w512-h512-s-no?authuser=0" align="left" width="40px">
 </a>
 
@@ -41,7 +41,7 @@
 </a>
 
 
-<a href="https://www.linkedin.com/in/hieupgmr202/" target="_blank">
+<a href="https://www.linkedin.com/in/hieupgmr202" target="_blank">
 <img src="https://lh3.googleusercontent.com/pw/AJFCJaWB7bm5r78gb98iYCpYUuFPQVtmWTIAL1ipTI7zumq_o8gBbrI8m-cF-fpd4FmXL-gWRl7ShLZf20fir2ZuWuZSqapfgvIWH26oVvohWHE4nnSokbdMx0ujgKlPCja2i-C5Q0VoViwF_T4HaRjci_N9=w512-h512-s-no?authuser=0" align="left" width="40px">
 </a>
 
