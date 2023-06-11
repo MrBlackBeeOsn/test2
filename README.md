@@ -2,15 +2,20 @@
 
 ---
 
-<h3 align="center">Hieu TK</h3>
+</br>
 
-<a href="https://sites.google.com/view/hieupgmr202/" target="_blank"> 💜 Black Grape Academy </a>
+<h3 align="left">📓 Hieu Trong</h3>
+
+</br>
+</br>
+
+<a href="https://sites.google.com/view/hieupgmr202" target="_blank"> 💜 Black Grape Academy </a>
 
 <h3 align="left">
 
 ```js
   
-<📷> 🐦 🌾🌾🌾 </📷>
+[<📷> 🐦 Black Grape Academy (NProfit)🌾🌾🌾 </📷>] (https://sites.google.com/view/hieupgmr202)
   
 💚 Acctax/Spreadsheet
 💙 Motivation/English
