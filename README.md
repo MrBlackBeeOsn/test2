@@ -18,9 +18,9 @@
   
 <📷> 🐦 Black Grape Academy (NProfit) 🌾🌾🌾 </📷>
   
-💜 Design | Programming
-💚 Acctax | Spreadsheet
-💙 Motivation | English
+💜 Design  Programming
+💚 Acctax  Spreadsheet
+💙 Motivation  English
 
   
 ```
