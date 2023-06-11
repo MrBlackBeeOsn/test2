@@ -45,7 +45,7 @@ Instagram
 ```
 
 <a href="https://truthsocial.com/@hieupgmr202" target="_blank">
-<img src="https://lh3.googleusercontent.com/pw/AJFCJaXTu4kFVg6ibvPiabmXT--KYI7cH--An3sNi1vYgbowxuov8uJxAEIoyzOqCEnrGp7-7UwgP26GCDwkI4FhKXaZ3rx94J2s3G5F4Kf0IO5HdIEiMqp2MXo9k5dC9EGXgjAEOW1gXkHsUCTJ8UPA_Ljk=w1200-h675-s-no?authuser=0" align="left" width="40px">
+<img src="https://lh3.googleusercontent.com/pw/AJFCJaXpvcFE1UcAWTXsmN6xDLLpLguFqDDyBV9Wx3jdNZXUqLI8YqiP26c8eDuVXKq1aNDaoJl7f-EEL2jnlDyD7YqPCDiyMVSJ2bzpO5lrB89_cJpp0UD6MZm5vH1K2yUarsTyV9-23KUc08KCG6M6ixMu=w365-h364-s-no?authuser=0" align="left" width="40px">
 </a>
 
 ```js
