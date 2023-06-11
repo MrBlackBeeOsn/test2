@@ -21,15 +21,12 @@
 💜 Design  Programming
 💚 Acctax  Spreadsheet
 💙 Motivation  English
-
   
 ```
   
 </h4>
 
-
 <br/>
-
 
 ---
 
@@ -42,7 +39,7 @@
 </a>
 
 ```js
-My website
+💻 My website
 ```
 
 <a href="https://www.instagram.com/hieupgmr202" target="_blank">
@@ -58,7 +55,7 @@ My website
 </a>
 
 ```js
-Truth Social
+📱 Truth Social
 ```
 
 <a href="https://twitter.com/hieupgmr202" target="_blank">
