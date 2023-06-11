@@ -24,7 +24,7 @@
 ---
 
 <a href="https://sites.google.com/view/hieupgmr202" target="_blank">
-<img src="https://lh3.googleusercontent.com/pw/AJFCJaWO_8VLGbVDvnVMBoQ_RX3cpGpYYxvzxNr77EQiGnC-AODTtLglVtZa6Watj7EtkWkmU0i_4nuGqfs5RyBMN1NaJRHlHY7oe6B_OxZroSOHzXSEH3K48dyEuVRosERIaZ9idMKp66TGQztX6f-xSKGp=w961-h961-s-no" align="left" width="60px">
+<img src="https://lh3.googleusercontent.com/pw/AJFCJaVFaUOhCBFB_YmHMJDsgHceBWLMCva35PFL_hzOug-DHuhBo67RnOWLgaClyIMGVw267gQNU60CcxNt_rxzlYws6oPACuBuNOO2kecQLJKTkCDuXWOUhELEImcxKbPCCfka_5Nv03mNm30emMKvmBul=w961-h961-s-no?authuser=0" align="left" width="50px">
 </a>
 
 
