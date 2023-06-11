@@ -24,7 +24,7 @@
 ---
 
 ```js
-Follow me
+🌾 Follow me
 ```
 
 <a href="https://sites.google.com/view/hieupgmr202" target="_blank">
@@ -35,13 +35,12 @@ Follow me
 My website
 ```
 
-
 <a href="https://www.instagram.com/hieupgmr202" target="_blank">
 <img src="https://lh3.googleusercontent.com/pw/AJFCJaWhtxUNOiBaA3Ag23wNODo3ZNSOM8JpMPxQ3p0bkjA83AieJgsBznkqTQIpjNHy_qdJ2iWSyt9tXGFIBJ0tdhOP8lUne6ZvYgqhMFZth_LRiBh0K3QNjwDHuqCmv__Ht00TMGkd9SSw4DDBivGEQgpI=w512-h512-s-no?authuser=0" align="left" width="40px">
 </a>
 
 ```js
-Instagram
+📸 Instagram
 ```
 
 <a href="https://truthsocial.com/@hieupgmr202" target="_blank">
@@ -67,7 +66,7 @@ Twitter
 
 
 ```js
-LinkedIn
+👔 LinkedIn
 ```
 
 <a href="https://www.facebook.com/groups/blackgrapeacademy" target="_blank">
