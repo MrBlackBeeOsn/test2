@@ -57,7 +57,7 @@ Truth Social
 
 
 ```js
-Twitter
+🐦 Twitter
 ```
 
 <a href="https://www.linkedin.com/in/hieupgmr202" target="_blank">
@@ -69,10 +69,19 @@ Twitter
 👔 LinkedIn
 ```
 
+<a href="https://www.linkedin.com/in/hieupgmr202" target="_blank">
+<img src="https://lh3.googleusercontent.com/pw/AJFCJaWB7bm5r78gb98iYCpYUuFPQVtmWTIAL1ipTI7zumq_o8gBbrI8m-cF-fpd4FmXL-gWRl7ShLZf20fir2ZuWuZSqapfgvIWH26oVvohWHE4nnSokbdMx0ujgKlPCja2i-C5Q0VoViwF_T4HaRjci_N9=w512-h512-s-no?authuser=0" align="left" width="40px">
+</a>
+
+
+```js
+😺 GitHub
+```
+
 <a href="https://www.facebook.com/groups/blackgrapeacademy" target="_blank">
 <img src="https://lh3.googleusercontent.com/pw/AJFCJaXUX2JlilsSRmlTYRPuqY6nk0YhtGJhbWcNT724uBu38UA4yyN5hpuIscI81uj9FYtyvDcBRMB3gXCcDPEnpS8dJjIELA3eUVbj3ujMtgg-TKSC2zpMQGkbYsZ4fKwzJUC4k8Qhp-jpdiwehDZ_nHCO=w961-h961-s-no?authuser=0" align="left" width="40px">
 </a>
 
 ```js
-Facebook Group
+📓 Facebook Group
 ```
