@@ -9,7 +9,8 @@
 ```js
 📓 Hieu Trong Khau
 ```
-  
+</br>
+
 </h2>
 
 <h4 align="left">
@@ -26,20 +27,22 @@
   
 </h4>
 
-<br/>
-
----
-
-```js
-🌾 Social Media
-```
-
 <a href="https://sites.google.com/view/hieupgmr202" target="_blank">
   <img src="https://lh3.googleusercontent.com/pw/AJFCJaVFaUOhCBFB_YmHMJDsgHceBWLMCva35PFL_hzOug-DHuhBo67RnOWLgaClyIMGVw267gQNU60CcxNt_rxzlYws6oPACuBuNOO2kecQLJKTkCDuXWOUhELEImcxKbPCCfka_5Nv03mNm30emMKvmBul=w961-h961-s-no?authuser=0" align="left" width="40px">
 </a>
 
 ```js
 📓 Hieu Trong Khau Blog
+```
+
+</br>
+
+---
+
+</br>
+
+```js
+🌾 Social Media
 ```
 
 <a href="https://www.youtube.com/@HieuAcct202" target="_blank">
