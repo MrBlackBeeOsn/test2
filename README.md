@@ -31,7 +31,7 @@
 ---
 
 ```js
-🌾 Follow me
+🌾 Social Media
 ```
 
 <a href="https://sites.google.com/view/hieupgmr202" target="_blank">
