@@ -50,7 +50,7 @@
 </a>
 
 ```js
-🏝️ HẬU KẾ TOÁN
+🏝️ HTK Workspace
 ```
 
 <a href="https://www.linkedin.com/groups/14318071/" target="_blank">
@@ -79,6 +79,14 @@
 
 ```js
 🌾 Social Media
+```
+
+<a href="https://www.linkedin.com/in/hieupgmr202/" target="_blank">
+  <img src="https://lh3.googleusercontent.com/pw/AJFCJaWB7bm5r78gb98iYCpYUuFPQVtmWTIAL1ipTI7zumq_o8gBbrI8m-cF-fpd4FmXL-gWRl7ShLZf20fir2ZuWuZSqapfgvIWH26oVvohWHE4nnSokbdMx0ujgKlPCja2i-C5Q0VoViwF_T4HaRjci_N9=w512-h512-s-no?authuser=0" align="left" width="40px">
+</a>
+
+```js
+📓 Hieu Trong Khau
 ```
 
 <a href="https://threads.net/@hieupgmr202" target="_blank">
