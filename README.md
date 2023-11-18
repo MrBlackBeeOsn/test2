@@ -13,17 +13,21 @@
 
 </h2>
 
-<h4 align="left">
-
 ```js
 
     Google Chat: Messaging and Team Collaboration
 ```
-</h4>
-    ☘️ Google Chat : https://chat.google.com
-    🍁 Chat in Gmail : https://mail.google.com
+
+  ☘️ Google Chat : https://chat.google.com
+  🍁 Chat in Gmail : https://mail.google.com
   Android: <a href=" https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite&hl=en&gl=US </a>
   iOS: <a href="  https://apps.apple.com/us/app/google-chat/id1163852619 </a>
+
+
+
+<h4 align="left">
+</h4>
+
 
 
   
