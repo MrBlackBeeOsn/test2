@@ -35,7 +35,7 @@
 </a>
 
 ```js
-📓  GGA Workspace
+📓  BGA Workspace
 ```
 
 </br>
