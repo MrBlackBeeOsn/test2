@@ -17,11 +17,13 @@
 
 ```js
 
-    <📷> 📓 GGA Workspace 🌾🌾🌾 </📷>
+    Google Chat: Messaging and Team Collaboration
 
-    💚 Acctax  Spreadsheet 
-    💙 Motivation  English
-    💜 Design  Programming
+    ☘️ Google Chat : https://chat.google.com
+    🍁 Chat in Gmail : https://mail.google.com
+
+    Android: https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite&hl=en&gl=US
+    iOS: https://apps.apple.com/us/app/google-chat/id1163852619
 
 ```
   
