@@ -18,9 +18,12 @@
     Google Chat: Messaging and Team Collaboration
 ```
 
-  ☘️ Google Chat : https://chat.google.com
+  ☘️ Google Chat : https://chat.google.com 
+  </br>
   🍁 Chat in Gmail : https://mail.google.com
+  </br>
   Android: <a href=" https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite&hl=en&gl=US </a>
+  </br>
   iOS: <a href="  https://apps.apple.com/us/app/google-chat/id1163852619 </a>
 
 
