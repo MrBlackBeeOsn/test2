@@ -25,16 +25,11 @@
     Android: <a href=" https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite&hl=en&gl=US </a>
   </br>
     iOS: <a href="  https://apps.apple.com/us/app/google-chat/id1163852619 </a>
-
+  </br>
 
 
 <h4 align="left">
 </h4>
-
-
-
-  
-
 
 <a href="https://sites.google.com/view/hieupgmr202" target="_blank">
   <img src="https://lh3.googleusercontent.com/pw/AJFCJaVFaUOhCBFB_YmHMJDsgHceBWLMCva35PFL_hzOug-DHuhBo67RnOWLgaClyIMGVw267gQNU60CcxNt_rxzlYws6oPACuBuNOO2kecQLJKTkCDuXWOUhELEImcxKbPCCfka_5Nv03mNm30emMKvmBul=w961-h961-s-no?authuser=0" align="left" width="40px">
