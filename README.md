@@ -7,18 +7,10 @@
 <h2>
   
 ```js
-📓 Hieu Trong Khau
+📓 My Blog
 ```
 </br>
 
-
-</br>
-
----
-
-```js
-🌍 Hieu Trong Blog
-```
 
 </br>
 
